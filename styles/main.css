@@ -91,6 +91,13 @@ body {
   }
 }
 
+.text_level-1 {
+  font-family: "Raleway";
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 20px;
+}
+
 .text_level-3 {
   font-size: 24px;
   line-height: 26px;
@@ -106,13 +113,6 @@ body {
 .regular-text {
   font-size: 18px;
   line-height: 20px;
-}
-
-.text_level-1 {
-  font-family: "Raleway";
-  font-size: 14px;
-  font-weight: 400;
-  line-height: 16px;
 }
 
 .lowercase {

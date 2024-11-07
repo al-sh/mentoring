@@ -61,9 +61,16 @@
 }
 
 .reviews__more_text {
+  padding: 30px;
   display: flex;
   flex-direction: row;
   gap: 5px;
+}
+
+@media (max-width: 768px) {
+  .reviews__more_text {
+    flex-direction: column;
+  }
 }
 
 .reviews__link {

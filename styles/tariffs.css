@@ -78,5 +78,10 @@
 }
 
 .tg-link_tariffs {
-  margin: 0 auto;
+  margin: 40px auto;
+}
+
+.tariffs__detail {
+  font-size: 24px;
+  line-height: 28px;
 }
